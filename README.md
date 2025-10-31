@@ -1,3 +1,4 @@
 # cli
 
 -mcp
+-sharetex
