@@ -2,3 +2,5 @@
 
 - mcp
 - sharetex
+- dataset
+- architecture
