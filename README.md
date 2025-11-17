@@ -1,7 +1,5 @@
 # cli
 
-- mcp
-- sharelatex
 - dataset
 - architecture
 - https://chuoling.github.io/mediapipe/solutions/hands.html
